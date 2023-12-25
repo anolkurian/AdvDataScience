@@ -2,7 +2,7 @@
 
 
 # Spatiotemporal Analysis and Prediction of Global Societal Unrest
-### Group 20: Aadithya Kandeth - 69802791, Anol Kurian Vadakkeparampil - 56268544
+### Group 20: Anol Kurian Vadakkeparampil - 56268544 ,  Aadithya Kandeth - 69802791
 
 ## Code Structure Breakdown:
 
